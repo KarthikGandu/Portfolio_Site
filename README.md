@@ -25,7 +25,7 @@
     <a href="https://github.com/KarthikGandu/Portfolio_Site/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+## Code Forking
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [KarthikGandu](https://github.com/KarthikGandu/Portfolio_Site). Thanks!
 
